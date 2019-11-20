@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 4 (Proc & Func)\NewWalkingManTaishaun\NewWalkingManTaishaun\bin\Debug\NewWalkingManTaishaun.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 4 (Proc & Func)\NewWalkingManTaishaun\NewWalkingManTaishaun\bin\Debug\NewWalkingManTaishaun.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 4 (Proc & Func)\NewWalkingManTaishaun\NewWalkingManTaishaun\bin\Debug\NewWalkingManTaishaun.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 4 (Proc & Func)\NewWalkingManTaishaun\NewWalkingManTaishaun\obj\Debug\NewWalkingManTaishaun.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 4 (Proc & Func)\NewWalkingManTaishaun\NewWalkingManTaishaun\obj\Debug\NewWalkingManTaishaun.NWMForm.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 4 (Proc & Func)\NewWalkingManTaishaun\NewWalkingManTaishaun\obj\Debug\NewWalkingManTaishaun.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 4 (Proc & Func)\NewWalkingManTaishaun\NewWalkingManTaishaun\obj\Debug\NewWalkingManTaishaun.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 4 (Proc & Func)\NewWalkingManTaishaun\NewWalkingManTaishaun\obj\Debug\NewWalkingManTaishaun.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 4 (Proc & Func)\NewWalkingManTaishaun\NewWalkingManTaishaun\obj\Debug\NewWalkingManTaishaun.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 4 (Proc & Func)\NewWalkingManTaishaun\NewWalkingManTaishaun\obj\Debug\NewWalkingManTaishaun.pdb

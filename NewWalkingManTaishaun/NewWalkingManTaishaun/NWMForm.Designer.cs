@@ -1,6 +1,6 @@
 ﻿namespace NewWalkingManTaishaun
 {
-    partial class Form1
+    partial class NWMForm
     {
         /// <summary>
         /// Required designer variable.
@@ -53,15 +53,15 @@
             this.lblInstructions.TabIndex = 1;
             this.lblInstructions.Text = "Click on a picture to make the man walk. ";
             // 
-            // Form1
+            // NWMForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(845, 517);
             this.Controls.Add(this.lblInstructions);
             this.Controls.Add(this.btnStart);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "NWMForm";
+            this.Text = "NWM by TJ";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
