@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{44909D6D-6618-4720-A674-9ED0D28D14F4}</ProjectGuid>
+    <ProjectGuid>{79D9DE9B-472F-453A-A24C-38D68A69F947}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>StringEqualityTaishaun</RootNamespace>
     <AssemblyName>StringEqualityTaishaun</AssemblyName>
@@ -54,6 +54,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
